@@ -1,1 +1,2 @@
-Hey Ajay !!
+Value by funcn for 0 index is: 2
+Value by main for 0 index is: 2
