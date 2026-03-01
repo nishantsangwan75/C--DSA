@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    string sg= "inspector chingam";
+    string sg= "inspectorchingam";
     int length=sg.size();
     sg[length-7]='a'; // here '' this will be used not "" this.
     cout<< sg[length-7];

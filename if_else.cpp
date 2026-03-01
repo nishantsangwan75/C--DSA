@@ -109,5 +109,8 @@ int main(){
             cout<< ", but retirement soon.";
         }
     }
+    else{
+        cout<<"not eligible for job";
+    }
     return 0;
 }
