@@ -1,5 +1,1 @@
-A
-BB
-CCC
-DDDD
-EEEEE
+200
