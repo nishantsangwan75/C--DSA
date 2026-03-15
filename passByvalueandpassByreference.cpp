@@ -37,7 +37,7 @@
 // and changes are being made on the copy not the original value of the 
 // string s. 
 // if we want to change the original value s we'll have to add a & before 
-// s in the funcn that is being calles like dingg(string &s)
+// s in the funcn that is being called like dingg(string &s)
 // as I have written below
 
 #include<iostream>

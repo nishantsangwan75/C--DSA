@@ -16,7 +16,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int arr[3][4]; // here it created a matrix of 3 rows and 4 columns and stored the input values and matrice starts from 00, 01 ,02 and upto 34 where 3 is i and 4 is j
+    int arr[3][4]; // here it created a matrix of 4 rows and 5 columns and stored the input values and matrice starts from 00, 01 ,02 and upto 34 where 3 is i and 4 is j
     cin>>arr[0][0]>>arr[0][1]>>arr[0][2]>>arr[0][3]>>arr[0][4];
     cin>>arr[1][0]>>arr[1][1]>>arr[1][2]>>arr[1][3]>>arr[1][4];
     cin>>arr[2][0]>>arr[2][1]>>arr[2][2]>>arr[2][3]>>arr[2][4];
